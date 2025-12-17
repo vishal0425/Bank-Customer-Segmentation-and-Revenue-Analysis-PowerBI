@@ -33,8 +33,8 @@ This project focuses on analyzing bank customer data to understand customer beha
 - Customer segmentation (New vs Loyal)
 - Revenue trend over time
 
-> 📂 Dashboard Link:  
-[Click here to access the dataset]([PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/file/d/1k8G8zOzn2w7aB-e0e-oUnlmcCabmPKtz/view?usp=drive_link))
+> 📂 Dataset Link:  
+[Click here to access the dataset](https://drive.google.com/file/d/1k8G8zOzn2w7aB-e0e-oUnlmcCabmPKtz/view?usp=drive_link)
 
 ## ✅ Conclusion
 The dashboard helps banks understand customer behavior, identify revenue drivers, and improve decision-making for customer retention and growth.
