@@ -33,7 +33,7 @@ This project focuses on analyzing bank customer data to understand customer beha
 - Customer segmentation (New vs Loyal)
 - Revenue trend over time
 
-## 📂 Dashboard Link:  
+> 📂 Dashboard Link:  
 [Click here to access the dataset](https://drive.google.com/file/d/1k8G8zOzn2w7aB-e0e-oUnlmcCabmPKtz/view?usp=drive_link)
 
 ## ✅ Conclusion
